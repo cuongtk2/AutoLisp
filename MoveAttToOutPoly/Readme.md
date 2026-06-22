@@ -21,3 +21,4 @@ For each boundary corner block whose insert point lies on a polyline vertex, the
 2. Gõ lệnh / Run command: `MoveAttToOutPoly`
 3. Chọn LWPOLYLINE ranh khép kín / Select a closed boundary LWPOLYLINE
 4. Chọn các block mốc góc ranh / Select the boundary corner blocks
+![Demo](https://github.com/user-attachments/assets/5430f3a9-d6ad-4588-8716-9f5a053b9753)
