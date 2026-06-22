@@ -105,7 +105,7 @@
   (setq ok t)
 
   ;; 1. Chon polyline
-  (setq poly-ent  (car ss-poly)
+  (setq poly-ent  (car (entsel "\nPick closed polyline"))
       poly-obj  (vlax-ename->vla-object poly-ent)
       poly-data (entget poly-ent)
       verts     (_get-verts poly-data)
