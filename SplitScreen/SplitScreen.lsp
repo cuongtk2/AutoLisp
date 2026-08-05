@@ -1,8 +1,10 @@
 ;;; ---------------------------------------------------------------------
-;;; Chia doi man hinh chong bat lai (AutoCAD trai, Explorer phai)
+;;; Chia doi man hinh (AutoCAD left, Explorer right)
 ;;; Dung PowerShell (co san tren Windows) -> khong can cai them gi
 ;;; Neu da co cua so Explorer -> dung luon, khong tao moi
 ;;; Chay an hoan toan, khong nhay cua so PowerShell/cmd
+;;; Code by :  Hùng Mạnh Cường
+;;; Date:  05/8/2026
 ;;; ---------------------------------------------------------------------
 
 (vl-load-com)
